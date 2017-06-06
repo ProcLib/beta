@@ -1,9 +1,11 @@
 # Edição #001 do Processo de Liberação
 
-|ID|Divulgação|Lista|Início|Término|
-|:-|:------|:----|:-----|:------|
-|AAAA-X|AAAA-MM-DD|AAAA-MM-DD|AAAA-MM-DD|AAAA-MM-DD|
+|ID|Anúncio|Lista|Início|Término|Domínios|
+|:-|:------|:----|:-----|:------|:-------|
+|AAAA-X|AAAA-MM-DD|AAAA-MM-DD|AAAA-MM-DD|AAAA-MM-DD|234.9238|
 
-|Endereço|Comprimento|Inicial|Raiz|Extensão|
+.
+
+|Endereço|Tamanho|Inicial|Raiz|Extensão|
 |:-------|:----------|:------|:---|:-------|
-|041cinevideo.com.br|12 caracteres|0|041cinevideo|.com.br|
+|000000000.com.br|9 caracteres|Número 0|000000000|com.br|
