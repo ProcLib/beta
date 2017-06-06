@@ -12,10 +12,17 @@ foi observado pela primeira vez na Edição 2001-A do Processo de Liberação
 
 ## Equivalências
 
-- [exemp-lo.com.br](/dominios/endereco/exemp-lo.com.br)
-- [exem-plo.com.br](/dominios/endereco/exem-plo.com.br)
+- [exemp-lo.com.br](/dominios/endereco/exemp-lo.com.br/)
+- [exem-plo.com.br](/dominios/endereco/exem-plo.com.br/)
 
 ## Alternativas
 
-- exemplo.net.br
-- exemplo.blog.br
+### Diretas
+
+- [exemplo.net.br](/dominios/endereco/exemplo.net.br/)
+- [exemplo.blog.br](/dominios/endereco/exemplo.blog.br/)
+
+### Equivalentes
+
+- [ex-emplo.net.br](/dominios/endereco/ex-emplo.net.br/)
+- [exe-mplo.tv.br](/dominios/endereco/exe-mplo.tv.br/)
