@@ -17,18 +17,23 @@
 - [Estatísticas](/estatisticas/)
 
 - [Anexos](/anexos/)
-- - registro.br
-- - seusite.org
-- - shi.com.br
-- - github.com
-- - flnhost.com.br
-- - v-brazil.com
+- - [1] registro.br
+- - [2] seusite.org
+- - [3] shi.com.br
+- - [4] github.com
+- - [5] flnhost.com.br
+- - [6] v-brazil.com
+- - [7] seunome.com.br
+
+# Ferramentas
+- [WaybackMachine](https://web.archive.org/) by Internet Archive
+- [Calc](https://www.libreoffice.org/discover/calc/) by LibreOffice
 
 # 2001-A
 
 |ID|Anúncio|Lista|Início|Término|Domínios|
 |:-|:------|:----|:-----|:------|:-------|
-|[2001-A](/processos/2001/a/)|2001-03-05|?|2001-03-06|2001-05-05|123.456|
+|[2001-A](/processos/2001/a/)|[2001-03-05](#anuncio)|????-??-??|2001-03-06|2001-05-05|123.456|
 
 # 000000000.com.br
 
