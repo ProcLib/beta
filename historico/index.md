@@ -118,9 +118,9 @@ Já em 1999 ...
 > - esse lote de nomes em fase de liberação constará no website do CGI.br, com espaço para que pretendentes a ele se candidatem.
 > - para alguém se candidatar a um nome precisa estar registrado junto ao Registro (deve possuir um "handle").
 > - o lote de nomes fica disponível para candidatos por 60 dias. Terminado este prazo:
-> - -  os nomes que não tiveram candidatos são liberados para o uso de quem chegar primeiro;
-> - - os que tiveram apenas um candidato serão a ele atribuídos, desde que este candidato preencha os requisitos normais para registro de nomes de domínios;
-> - - os nomes que tiverem dois ou mais candidatos, NÄO serão liberados e permanecerão no estado "congelado" até a próxima ocasião de liberação de lotes de nomes, quando participarão novamente do lote candidato à liberação.
+>   -  os nomes que não tiveram candidatos são liberados para o uso de quem chegar primeiro;
+>   - os que tiveram apenas um candidato serão a ele atribuídos, desde que este candidato preencha os requisitos normais para registro de nomes de domínios;
+>   - os nomes que tiverem dois ou mais candidatos, NÄO serão liberados e permanecerão no estado "congelado" até a próxima ocasião de liberação de lotes de nomes, quando participarão novamente do lote candidato à liberação.
 
 
 ## Eventos
