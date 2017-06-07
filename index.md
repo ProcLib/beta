@@ -1,4 +1,11 @@
-#Mapa do Site
+# Mapa do Site
+
+## PROJETO
+
+
+| Projeto                  |   proclib.org/projeto/                             |
+|:-------------------------|:---------------------------------------------------|
+| Tema                 |   proclib.org/dominios/endereco/                   |
 
 ## DOMÍNIOS
 
@@ -14,8 +21,8 @@
 | com.br                   |   proclib.org/dominios/extensao/com-br/            |
 | Tamanho                  |   proclib.org/dominios/tamanho/                    |
 | 9 caracteres             |   proclib.org/dominios/tamanho/9-caracteres/       |
-| Estado                   |   proclib.org/dominios/estado/?                    |
-| Disponível               |   proclib.org/dominios/estado/disponivel/?         |
+| Situação                 |   proclib.org/dominios/situacao/?                  |
+| Disponível               |   proclib.org/dominios/situacao/disponivel/?       |
 
 ## HISTÓRICO
 
@@ -37,3 +44,20 @@
 | Relatório em 2008-01-01  |   proclib.org/eventos/relatorios/2008-01-01/ |
 | Processos                |   proclib.org/eventos/processos/             |
 | Processo  em 2001-03-06  |   proclib.org/eventos/processos/2001-03-06/  |
+
+## ANEXOS
+
+| Anexos                   |   proclib.org/anexos/                        |
+|:-------------------------|:---------------------------------------------|
+| Registro.br              |   proclib.org/anexos/registro.br/            |
+| Processo de liberação de domínios  |   proclib.org/anexos/registro.br/info/proclib.html/  |
+| 2003-02-04 (Cópia)  |   proclib.org/anexos/registro.br/info/proclib.html/copia-20030204/  |
+| Domínios em processo de liberação                 |   proclib.org/anexos/registro.br/info/proclib-l.html              |
+
+## CLIPAGEM
+
+| Clipagem                       |   proclib.org/clipagem/                     |
+|:-------------------------------|:--------------------------------------------|
+| Artigos / Matérias / Notícias  |  proclib.org/clipagem/artigos/              |
+| Tópicos / Grupos de Discussão  |  proclib.org/clipagem/topicos/              |
+| Vídeos                         |  proclib.org/clipagem/videos/               |
