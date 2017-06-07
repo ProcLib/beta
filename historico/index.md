@@ -9,46 +9,48 @@ A elaboração do histórico aqui proposto tem por finalidade remontar a cronolo
 
 75 ocorrências registradas...
 
-|      |Reuniões|Anúncios|Alterações|Relatórios|Processos|
-|:-----|:-------|:-------|:---------|:---------|:--------|
-| 1998 | 1      |        |          |          |         |
-| 1999 | 1      |        |          |          |         |
-| 2000 | 2      |        |          |          |         |
-| 2001 | 3      | 2      | 1        |          | 5       |
-| 2002 |        |        | 4        |          | 3       |
-| 2003 |        |        |          |          | 3       |
-| 2004 |        |        |          |          | 3       |
-| 2005 |        |        |          |          | 3       |
-| 2006 |        |        |          | 1        | 3       |
-| 2007 |        |        |          | 1        | 3       |
-| 2008 |        |        |          |          | 3       |
-| 2009 |        |        |          | 1        | 3       |
-| 2010 |        |        |          | 1        | 3       |
-| 2011 |        |        |          | 1        | 3       |
-| 2012 |        |        |          | 1        | 3       |
-| 2013 |        |        |          | 1        | 3       |
-| 2014 |        |        |          | 1        | 3       |
-| 2015 |        |        |          | 1        | 3       |
-| 2016 |        |        |          |          | 3       |
-| 2017 |        |        |          |          | 2       |
+|      | Reunião | Anúncio | Processo | Alteração | Relatório |
+|:-----|:---|:---|:--|:---|:---|
+| 1998 | 1  |    |   |    |    |
+| 1999 | 1  |    |   |    |    |
+| 2000 | 2  |    |   |    |    |
+| 2001 | 3  | 2  | 5 | 1  |    |
+| 2002 |    |    | 3 | 4  |    |
+| 2003 |    |    | 3 |    |    |
+| 2004 |    |    | 3 |    |    |
+| 2005 |    |    | 3 |    |    |
+| 2006 |    |    | 3 |    | 1  |
+| 2007 |    |    | 3 |    | 1  |
+| 2008 |    |    | 3 |    |    |
+| 2009 |    |    | 3 |    | 1  |
+| 2010 |    |    | 3 |    | 1  |
+| 2011 |    |    | 3 |    | 1  |
+| 2012 |    |    | 3 |    | 1  |
+| 2013 |    |    | 3 |    | 1  |
+| 2014 |    |    | 3 |    | 1  |
+| 2015 |    |    | 3 |    | 1  |
+| 2016 |    |    | 3 |    |    |
+| 2017 |    |    | 2 |    |    |
+
 
 ## Eventos
 
 5 tipos de eventos observados...
 
-| Tipo                                | Ocorrência |
+| Evento                              | Ocorrências|
 |:------------------------------------|:-----------|
-|[Reuniões](/historico/reunioes/)     | 7          |
-|[Anúncios](/historico/anuncios/)     | 2          |
-|[Alterações](/historico/alteracoes/) | 5          |
-|[Relatórios](/historico/relatorios/) | 9          |
-|[Processos](/historico/processos/)   | 52         |
+|[Reunião](/historico/reunioes/)      | 7          |
+|[Anúncio](/historico/anuncios/)      | 2          |
+|[Processo](/historico/processos/)    | 52         |
+|[Alteração](/historico/alteracoes/)  | 5          |
+|[Relatório](/historico/relatorios/)  | 9          |
 
-## Cronologia
+
+## Períodos
 
 20 anos analisados...
 
-| Ano                    | Ocorrência |
+| Período                | Ocorrências|
 |:-----------------------|:-----------|
 |[1998](/historico/1998/)| 1          |
 |[1999](/historico/1999/)| 1          |
