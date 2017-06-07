@@ -7,6 +7,8 @@ description: Histórico de eventos relacionados ao Processo de Liberação de do
 
 A elaboração do histórico aqui proposto tem por finalidade remontar a cronologia oficial de eventos relacionados ao **Processo de Liberação** de domínios no Brasil realizado pelo **Registro.br**.
 
+75 ocorrências registradas...
+
 |      |Reuniões|Anúncios|Alterações|Relatórios|Processos|
 |:-----|:-------|:-------|:---------|:---------|:--------|
 | 1998 | 1      |        |          |          |         |
@@ -32,7 +34,7 @@ A elaboração do histórico aqui proposto tem por finalidade remontar a cronolo
 
 ## Eventos
 
-75 eventos
+5 tipos de eventos observados...
 
 | Tipo                                | Ocorrência |
 |:------------------------------------|:-----------|
@@ -44,7 +46,7 @@ A elaboração do histórico aqui proposto tem por finalidade remontar a cronolo
 
 ## Cronologia
 
-20 anos
+20 anos analisados...
 
 | Ano                    | Ocorrência |
 |:-----------------------|:-----------|
