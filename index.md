@@ -2,7 +2,7 @@
 
 ## DOMÍNIOS
 
-| Domínios                 |   proclib.org/dominios/                            |
+| Domínios                 |   proclib.org/dominios/                            |
 |:-------------------------|:---------------------------------------------------|
 | Endereço                 |   proclib.org/dominios/endereco/                   |
 | 000000000.com.br         |   proclib.org/dominios/endereco/000000000.com.br/  |
@@ -10,7 +10,7 @@
 | Número 0                 |   proclib.org/dominios/inicial/numero-0/           |
 | Nome                     |   proclib.org/dominios/nome/                       |
 | 000000000                |   proclib.org/dominios/nome/000000000/             |
-| Extensão                 |   proclib.org/dominios/extensao/                   |
+| Extensão                 |   proclib.org/dominios/extensao/                   |
 | com.br                   |   proclib.org/dominios/extensao/com-br/            |
 | Tamanho                  |   proclib.org/dominios/tamanho/                    |
 | 9 caracteres             |   proclib.org/dominios/tamanho/9-caracteres/       |
@@ -19,7 +19,7 @@
 
 ## HISTÓRICO
 
-| Histórico                |   proclib.org/historico/       |
+| Histórico                |   proclib.org/historico/       |
 |:-------------------------|:-------------------------------|
 | 2001                     |   proclib.org/historico/2001/  |
 
