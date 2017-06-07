@@ -49,15 +49,20 @@
 
 | Anexos                   |   proclib.org/anexos/                        |
 |:-------------------------|:---------------------------------------------|
-| Registro.br              |   proclib.org/anexos/registro.br/            |
+| Registro .br             |   proclib.org/anexos/registro.br/            |
 | Processo de liberação de domínios  |   proclib.org/anexos/registro.br/info/proclib.html/  |
-| 2003-02-04 (Cópia)  |   proclib.org/anexos/registro.br/info/proclib.html/copia-20030204/  |
-| Domínios em processo de liberação                 |   proclib.org/anexos/registro.br/info/proclib-l.html              |
+| Domínios em processo de liberação                 |   proclib.org/anexos/registro.br/info/proclib-l.html |
+
+
+| Cópia                    |   proclib.org/anexos/                         |
+|:-------------------------|:---------------------------------------------|
+| 2003-02-04 (Cópia)       |   copia.proclib.org/registro.br/info/proclib.html/20030204/  |
+
 
 ## CLIPAGEM
 
 | Clipagem                       |   proclib.org/clipagem/                     |
 |:-------------------------------|:--------------------------------------------|
-| Artigos / Matérias / Notícias  |  proclib.org/clipagem/artigos/              |
-| Tópicos / Grupos de Discussão  |  proclib.org/clipagem/topicos/              |
-| Vídeos                         |  proclib.org/clipagem/videos/               |
+| Artigos / Matérias / Notícias  |  clipagem.proclib.org/artigos/              |
+| Tópicos / Grupos de Discussão  |  clipagem.proclib.org/topicos/              |
+| Vídeos                         |  clipagem.proclib.org/videos/               |
