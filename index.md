@@ -85,3 +85,5 @@
 | Artigos / Matérias / Notícias  |  /clipagem/proclib.org/artigos/              |
 | Tópicos / Grupos de Discussão  |  /clipagem/proclib.org/topicos/              |
 | Vídeos                         |  /clipagem/proclib.org/videos/               |
+
+[Trello](https://trello.com/b/UURwNWVw) | [Slack](https://proclib.slack.com/) | [Twitter](https://twitter.com/proclib_org) | [Facebook](https://www.facebook.com/proclib/)
