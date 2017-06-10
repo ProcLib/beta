@@ -1,7 +1,7 @@
-------------  ---------  ---  -----------  ------------  ---  --------  ---  ---------  ---  --------  ---------  ----  -----------  ---  ------
-title:        Histórico  -    ProcLib.org                                                                                                       
+---
+title:        Histórico  -    ProcLib.org                                                                            
 description:  Histórico  de   eventos      relacionados  ao   Processo  de   Liberação  de   domínios  realizado  pelo  Registro.br  no   Brasil
-------------  ---------  ---  -----------  ------------  ---  --------  ---  ---------  ---  --------  ---------  ----  -----------  ---  ------
+---
 
 # Histórico
 
@@ -17,7 +17,7 @@ Para tal, além dos próprios processos, foram levados em consideração os dema
 - [Relatórios](relatorios/)
 
 |               | Reuniões | Anúncios | Processos | Alterações | Relatórios |        |
-| :------------ | :------- | :------- | :-------- | :--------- | :--------- | ------ |
+| :-----------: | :------: | :------: | :-------: | :--------: | :--------: | :----: |
 | [1998](#1998) | 1        |          |           |            |            | 1      |
 | [1999](#1999) | 1        |          |           |            |            | 1      |
 | [2000](#2000) | 2        |          |           |            |            | 2      |
@@ -61,7 +61,7 @@ Para tal, além dos próprios processos, foram levados em consideração os dema
 
 ### [Anúncio em 05/03/2001](anuncios/2001-03-05/)
 
-### [Processo em 06/03/2001](processos/2001-a/)
+### [Processo em 06/03/2001](processos/2001-03-06/)
 
 ### [Alteração em 09/03/2001](alteracoes/2001-03-09/)
 
@@ -71,25 +71,25 @@ Para tal, além dos próprios processos, foram levados em consideração os dema
 
 ### [Anúncio em 18/05/2001](anuncios/2001-05-18/)
 
-### [Processo em 25/05/2001](processos/2001-b/)
+### [Processo em 25/05/2001](processos/2001-05-25/)
 
-### [Processo em 29/06/2001](processos/2001-c/)
+### [Processo em 29/06/2001](processos/2001-06-29/)
 
-### [Processo em 03/08/2001](processos/2001-d/)
+### [Processo em 03/08/2001](processos/2001-08-03/)
 
-### [Processo em 02/11/2001](processos/2001-e/)
+### [Processo em 02/11/2001](processos/2001-11-02/)
 
 ## 2002
 
-### [Processo em ??/02/2012](processos/2002-a/)
+### [Processo em ??/02/2012](processos/2002-02-??/)
 
 ### [Alteração em 07/04/2002](alteracoes/2002-04-07/)
 
-### [Processo em 09/08/2002](processos/2002-b/)
+### [Processo em 09/08/2002](processos/2002-08-09/)
 
 ### [Alteração em 10/10/2002](alteracoes/2002-10-10/)
 
-### [Processo em ??/11/2002](processos/2002-c/)
+### [Processo em ??/11/2002](processos/2002-11-??/)
 
 ### [Alteração em 07/12/2002](alteracoes/2002-12-07/)
 
@@ -97,138 +97,138 @@ Para tal, além dos próprios processos, foram levados em consideração os dema
 
 ## 2003
 
-### [Processo em 11/01/2003](processos/2003-a/)
+### [Processo em 11/01/2003](processos/2003-01-11/)
 
-### [Processo em ??/03/2003](processos/2003-b/)
+### [Processo em ??/03/2003](processos/2003-03-??/)
 
-### [Processo em ??/12/2003](processos/2003-c/)
+### [Processo em ??/12/2003](processos/2003-12-??/)
 
 ## 2004
 
-### [Processo em ??/??/2004](processos/2004-a/)
+### [Processo em ??/??/2004](processos/2004-??-??/)
 
-### [Processo em 19/06/2004](processos/2004-b/)
+### [Processo em 19/06/2004](processos/2004-06-19/)
 
-### [Processo em 20/11/2004](processos/2004-c/)
+### [Processo em 20/11/2004](processos/2004-11-20/)
 
 ## 2005
 
-### [Processo em 02/04/2005](processos/2005-a/)
+### [Processo em 02/04/2005](processos/2005-04-02/)
 
-### [Processo em 03/06/2005](processos/2005-b/)
+### [Processo em 03/06/2005](processos/2005-06-03/)
 
-### [Processo em 03/09/2005](processos/2005-c/)
+### [Processo em 03/09/2005](processos/2005-09-03/)
 
 ## 2006
 
-### [Processo em 04/02/2006](processos/2006-a/)
+### [Processo em 04/02/2006](processos/2006-02-04/)
 
-### [Processo em 03/06/2006](processos/2006-b/)
+### [Processo em 03/06/2006](processos/2006-06-03/)
 
-### [Processo em 07/10/2006](processos/2006-c/)
+### [Processo em 07/10/2006](processos/2006-10-07/)
 
 ### [Reunião em 01/12/2006](reunioes/2006-12-01/)
 
 ## 2007
 
-### [Processo em 10/02/2007](processos/2007-a/)
+### [Processo em 10/02/2007](processos/2007-02-10/)
 
-### [Processo em 02/06/2007](processos/2007-b/)
+### [Processo em 02/06/2007](processos/2007-06-02/)
 
-### [Processo em 06/10/2007](processos/2007-c/)
+### [Processo em 06/10/2007](processos/2007-10-06/)
 
 ## 2008
 
-### [Relatório em 01/01/2008](relatorios/2006-2007/)
+### [Relatório em 01/01/2008](relatorios/2008-01-01/)
 
-### [Processo em 16/02/2008](processos/2008-a/)
+### [Processo em 16/02/2008](processos/2008-02-16/)
 
-### [Processo em 14/06/2008](processos/2008-b/)
+### [Processo em 14/06/2008](processos/2008-06-14/)
 
-### [Processo em 18/10/2008](processos/2008-c/)
+### [Processo em 18/10/2008](processos/2008-10-18/)
 
 ## 2009
 
-### [Relatório em 01/01/2009](relatorios/2008/)
+### [Relatório em 01/01/2009](relatorios/2009-01-01/)
 
-### [Processo em 14/02/2009](processos/2009-a/)
+### [Processo em 14/02/2009](processos/2009-02-14/)
 
-### [Processo em 13/06/2009](processos/2009-b/)
+### [Processo em 13/06/2009](processos/2009-06-13/)
 
-### [Processo em 10/10/2009](processos/2009-c/)
+### [Processo em 10/10/2009](processos/2009-10-10/)
 
 ## 2010
 
-### [Relatório em 01/01/2010](relatorios/2009/)
+### [Relatório em 01/01/2010](relatorios/2010-01-01/)
 
-### [Processo em 06/02/2010](processos/2010-a/)
+### [Processo em 06/02/2010](processos/2010-02-06/)
 
-### [Processo em 05/06/2010](processos/2010-b/)
+### [Processo em 05/06/2010](processos/2010-06-05/)
 
-### [Processo em 02/10/2010](processos/2010-c/)
+### [Processo em 02/10/2010](processos/2010-10-02/)
 
 ## 2011
 
-### [Relatório em 01/01/2011](relatorios/2010/)
+### [Relatório em 01/01/2011](relatorios/2011-01-01/)
 
-### [Processo em 05/02/2011](processos/2011-a/)
+### [Processo em 05/02/2011](processos/2011-02-05/)
 
-### [Processo em 04/06/2011](processos/2011-b/)
+### [Processo em 04/06/2011](processos/2011-06-04/)
 
-### [Processo em 08/10/2011](processos/2011-c/)
+### [Processo em 08/10/2011](processos/2011-10-08/)
 
 ## 2012
 
-### [Relatório em 01/01/2012](relatorios/2011/)
+### [Relatório em 01/01/2012](relatorios/2012-01-01/)
 
-### [Processo em 11/02/2012](processos/2012-a/)
+### [Processo em 11/02/2012](processos/2012-02-11/)
 
-### [Processo em 02/06/2012](processos/2012-b/)
+### [Processo em 02/06/2012](processos/2012-06-02/)
 
-### [Processo em 06/10/2012](processos/2012-c/)
+### [Processo em 06/10/2012](processos/2012-10-06/)
 
 ## 2013
 
-### [Relatório em 01/01/2013](relatorios/2012/)
+### [Relatório em 01/01/2013](relatorios/2013-01-01/)
 
-### [Processo em 09/02/2013](processos/2013-a/)
+### [Processo em 09/02/2013](processos/2013-02-09/)
 
-### [Processo em 08/06/2013](processos/2013-b/)
+### [Processo em 08/06/2013](processos/2013-06-08/)
 
-### [Processo em 05/10/2013](processos/2013-c/)
+### [Processo em 05/10/2013](processos/2013-10-05/)
 
 ## 2014
 
-### [Processo em 08/02/2014](processos/2014-a/)
+### [Processo em 08/02/2014](processos/2014-02-08/)
 
-### [Processo em 07/06/2014](processos/2014-b/)
+### [Processo em 07/06/2014](processos/2014-06-07/)
 
-### [Relatório em 18/08/2014](relatorios/2013/)
+### [Relatório em 18/08/2014](relatorios/2014-08-18/)
 
-### [Processo em 04/10/2014](processos/2014-c/)
+### [Processo em 04/10/2014](processos/2014-10-04/)
 
 ## 2015
 
-### [Processo em 07/02/2015](processos/2015-a/)
+### [Processo em 07/02/2015](processos/2015-02-07/)
 
-### [Processo em 06/06/2015](processos/2015-b/)
+### [Processo em 06/06/2015](processos/2015-06-06/)
 
-### [Processo em 03/10/2015](processos/2015-c/)
+### [Processo em 03/10/2015](processos/2015-10-03/)
 
-### [Relatório em 22/12/2015](relatorios/2014/)
+### [Relatório em 22/12/2015](relatorios/2015-12-22/)
 
 ## 2016
 
-### [Processo em 13/02/2016](processos/2016-a/)
+### [Processo em 13/02/2016](processos/2016-02-13/)
 
-### [Processo em 04/06/2016](processos/2016-b/)
+### [Processo em 04/06/2016](processos/2016-06-04/)
 
-### [Relatório em 21/09/2016](relatorios/2015/)
+### [Relatório em 21/09/2016](relatorios/2016-09-21/)
 
-### [Processo em 08/10/2016](processos/2016-c/)
+### [Processo em 08/10/2016](processos/2016-10-08/)
 
 ## 2017
 
-### [Processo em 11/03/2017](processos/2017-a/)
+### [Processo em 11/03/2017](processos/2017-03-11/)
 
-### [Processo em 24/06/2017](processos/2017-b/)
+### [Processo em 24/06/2017](processos/2017-06-24/)
