@@ -1,3 +1,6 @@
+---
+title: clipagem
+---
 # Clipagem
 
 ## Ferramentas
