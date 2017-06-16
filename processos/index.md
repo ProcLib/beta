@@ -30,6 +30,7 @@
 ## Perspectiva 2
 
 ### Legenda
+
 | Termo | Significado                                                           |
 | ----- | --------------------------------------------------------------------- |
 | \#    | Número da edição do processo                                          |
